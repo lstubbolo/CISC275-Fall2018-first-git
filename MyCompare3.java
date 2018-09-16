@@ -20,7 +20,7 @@ public class MyCompare3 {
 			}
 		});
 		System.out.println(dogs);
-		Collections.sort(dogs);
+		//Collections.sort(dogs);
 		System.out.println(dogs);
 	}
 }
